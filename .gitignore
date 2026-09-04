@@ -1,0 +1,4 @@
+frontend.zip
+job_ai_backend/.env
+job_ai_backend/venv/
+job_ai_backend/__pycache__/
